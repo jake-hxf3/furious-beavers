@@ -1,5 +1,5 @@
 # Project Name
-![insert alt text](images/example.jpg)
+![insert alt text](images/logo.png)
 
 This is a project about the website for the cartoon brand named The Furious Pet Beavers.
 
